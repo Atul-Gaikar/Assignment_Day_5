@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class HarmonicNumber {
 //Function to calculate the nth harmonic number
-//@param n the value of harmonic number
+//n the value of harmonic number
 	 
 	static double harmonic(int n) {
 		double h = 1;
@@ -18,7 +18,7 @@ public class HarmonicNumber {
 	}
 
 //main method to test the class
-//@param ars
+
 	 
 	public static void main(String[] ars) {
 		Scanner s = new Scanner(System.in);

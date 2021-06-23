@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class PowerOf2 {
 
 	//Function to print the table of 2 n times and prin it
-	//param pow the value for no of time the table of two is printed
+	//pow the value for no of time the table of two is printed
 	static void printTable(int pow) {
 		int val = 1;
 		for (int i = 1; i <= pow; i++) {

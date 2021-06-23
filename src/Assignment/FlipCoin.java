@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class FlipCoin {
 
 	//Function to find the percent of flipped coins
-	// @param times the value for no of times flip
+	// times the value for no of times flip
 	static void flipPerc(int times) {
 		double heads = 0;
 		for (int i = 0; i < times; i++) {

@@ -6,7 +6,7 @@ import java.util.Scanner;
  public class Factor{
 
 //Finction to check if the no is prime or not
-//Param n the number to check for prime
+// the number to check for prime
 //Return true if prime and vice-versa
 
 public static boolean isPrime(int n) {
