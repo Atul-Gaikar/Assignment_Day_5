@@ -1,4 +1,4 @@
-package Assignment;
+package com.bridgelabz.Assignment;
     //Purpose:  Flip Coin and print percentage of Heads and Tails 
 import java.util.Scanner;
 

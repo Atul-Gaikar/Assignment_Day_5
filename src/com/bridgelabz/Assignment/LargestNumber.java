@@ -1,4 +1,4 @@
-package Assignment;
+package com.bridgelabz.Assignment;
 import java.util.Scanner;
 public class LargestNumber {
     public static void main(String[] args) 

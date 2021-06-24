@@ -1,4 +1,4 @@
-package Assignment;
+package com.bridgelabz.Assignment;
 
 
 //Purpose: Program to Prints the Nth harmonic number: 1/1 + 1/2 + ... + 1/N 

@@ -1,4 +1,4 @@
-package Assignment;
+package com.bridgelabz.Assignment;
 //Check whether a number is even or odd using if...else statement
 import java.util.Scanner;
 public class EvenOdd {

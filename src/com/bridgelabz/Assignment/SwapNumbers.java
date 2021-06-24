@@ -1,4 +1,4 @@
-package Assignment;
+package com.bridgelabz.Assignment;
 //Swap two numbers using temporary variable
 public class SwapNumbers {
 

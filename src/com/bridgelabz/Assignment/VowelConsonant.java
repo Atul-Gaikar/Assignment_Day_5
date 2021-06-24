@@ -1,4 +1,4 @@
-package Assignment;
+package com.bridgelabz.Assignment;
 //Check whether an alphabet is vowel or consonant using if..else statement
 public class VowelConsonant {
 

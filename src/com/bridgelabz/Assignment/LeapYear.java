@@ -1,4 +1,4 @@
-package Assignment;
+package com.bridgelabz.Assignment;
 
 public class LeapYear {
 
